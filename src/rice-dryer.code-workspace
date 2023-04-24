@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "I2C Scaner",
+			"path": "../../I2C Scaner"
+		}
+	],
+	"settings": {}
+}
